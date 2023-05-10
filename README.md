@@ -2,7 +2,7 @@
 
 # Analytical SQL Case Study
 
-This repository contains a case study focused on analyzing customer behavior and implementing a monetary model using SQL analytical functions. The goal is to gain insights into customer purchasing patterns, segment customers based on their behavior, and answer specific questions using the provided dataset.
+This case study focused on analyzing customer behavior and implementing a monetary model using SQL analytical functions. The goal is to gain insights into customer purchasing patterns, segment customers based on their behavior, and answer specific questions using the provided dataset.
 
 ## Background
 The dataset consists of purchasing transactions from customers, and the objective is to understand customer behavior in order to target them effectively, increase sales and revenue, improve customer retention, and reduce churn.
